@@ -1,5 +1,8 @@
-## Hi there 👋
+## I am Channpreet Kaur
+## I am BikramAditya Singh 🎧✨
 
+💻Computer Science student at Chitkara University <br/>
+🧠I like to do web devlopment projects and learn new languages <br/>
 <!--
 **Channpreetk/Channpreetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
